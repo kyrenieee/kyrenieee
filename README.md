@@ -9,16 +9,16 @@
 
 ## GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=kyrenieee&theme=github-dark&mode=dark" alt="kyrenieee's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kyrenieee&show_icons=true&bg_color=135,0f1b2d,0d1117,121e26&border_color=385370&border_radius=14&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&ring_color=38bdf8&card_width=650" alt="kyrenieee's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kyrenieee&background=135,0f1b2d,0d1117,121e26&border=385370&border_radius=14&stroke=263241&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=8b949e&card_width=650&card_height=185&cache_seconds=86400" alt="kyrenieee's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=kyrenieee&theme=github-dark&mode=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyrenieee&langs_count=5&bg_color=135,0f1b2d,0d1117,121e26&border_color=385370&border_radius=14&title_color=38bdf8&text_color=e2e8f0&card_width=650" alt="Top Languages" />
 </p>
 <p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=kyrenieee&theme=github-dark&mode=dark" alt="kyrenieee's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyrenieee&bg_color=0d1117&color=e2e8f0&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=false" alt="kyrenieee's Activity Graph" />
 </p>
 
 ## Languages & Tools
@@ -48,15 +48,3 @@
   <a href="https://discord.com/users/814843188468383744" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Discord.svg" alt="Discord" width="40" height="40" style="margin: 0 8px;"/></a>
   <a href="https://www.instagram.com/_.kyrenieee/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/></a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=kyrenieee&theme=github-dark&mode=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kyrenieee&theme=github-dark&mode=dark" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=kyrenieee&theme=github-dark&mode=dark" />
-</picture>
-
-<div align="center">
-  <!---->
-</div>
-
-<p align="center"><sub>kyrene camilla · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
