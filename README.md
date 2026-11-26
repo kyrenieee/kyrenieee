@@ -7,11 +7,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kyrenieee&theme=dark&cache_seconds=86400" alt="kyrenieee's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=kyrenieee&theme=github-dark&mode=dark" alt="kyrenieee's GitHub Stats" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kyrenieee&theme=github-dark&mode=dark" alt="kyrenieee's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kyrenieee&theme=nightowl&hide_border=true&cache_seconds=86400" alt="kyrenieee's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
@@ -57,4 +54,4 @@
   <!---->
 </div>
 
-<p align="center"><sub>kyrene camilla </p>
+<p align="center"><sub> · kyrene camilla · </p>
